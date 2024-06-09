@@ -1,0 +1,14 @@
+{
+    "mvAll": {
+        "mvThemeCol_ChildBg": [253, 253, 253],
+        "mvThemeCol_Text": [0,0,0],
+        "mvThemeCol_Button": [231, 231, 235],
+        "mvThemeCol_ButtonHovered": [206, 206, 213],
+        "mvThemeCol_ButtonActive": [175, 175, 183],
+        "mvThemeCol_Border": [101, 101, 114],
+        "mvThemeCol_BorderShadow": [101, 101, 114],
+        "mvStyleVar_FrameRounding": 3,
+        "mvStyleVar_FrameBorderSize": 0.2,
+        "mvThemeCol_FrameBg": [253, 253, 253]
+    }
+}
