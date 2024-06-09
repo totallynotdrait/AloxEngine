@@ -1,5 +1,15 @@
 # AloxEngine
-A very basic Web or Browser Engine for [DearPyGui](https://github.com/hoffstadt/DearPyGui) powerd by [DearPygGyi-Mardown](https://github.com/IvanNazaruk/DearPyGui-Markdown).
+A very basic Web or Browser Engine for [DearPyGui](https://github.com/hoffstadt/DearPyGui) powered by [DearPyGui-Mardown](https://github.com/IvanNazaruk/DearPyGui-Markdown) and DearPyGui-ThemeLoader.
+
+# Installing
+
+```bash
+git clone https://github.com/totallynotdrait/AloxEngine
+cd AloxEngine
+pip install -r .\requirements.txt
+python alox.py
+```
+Note that Alox and its engine is currently in development
 
 # What it supports?
 
