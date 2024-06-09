@@ -9,7 +9,8 @@ cd AloxEngine
 pip install -r .\requirements.txt
 python alox.py
 ```
-Note that Alox and its engine is currently in development
+Note: Alox and its engine is currently in development
+      Alox will automarically redirect to `.\index.html` for now
 
 # What it supports?
 
